@@ -1,0 +1,34 @@
+.name{
+    font-size: 40; 
+    font-family: Palatino, "Palatino Linotype", serif; 
+    color: rgb(218, 62, 62);
+}
+
+.speech{
+    font-size: 12; 
+    font-family: Verdana, Times, serif; 
+    color: rgba(14, 14, 14, 0.925);
+    }
+
+.direction{
+    background-color: rgb(166, 184, 170);
+    font-size: 20; 
+    font-family: "Times New Roman", Times, serif; 
+    color: black;
+}
+
+.direction:hover{
+    background-color: rgb(35, 30, 183);
+ }
+
+ .BERTA{
+    font-size: 40;
+    color: rgb(13, 195, 195);
+    font-style: italic;
+    }
+    
+.MISSTESMAN{
+      font-size: 40; 
+      color: rgb(26, 178, 26);
+      font-style: oblique;
+    }
