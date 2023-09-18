@@ -72,3 +72,18 @@
         background-color: var(--table-bg-header);
         color: var(--table-color-header);
       }
+      
+      .BERTA:hover{
+        
+        color: darkred;
+        text-shadow:3px 2px 3px blue;
+        background-color:darkkhaki;
+        
+       
+      }
+      
+      .MISSTESMAN:hover{
+        color: darkred;
+        text-shadow:3px 2px 3px blue;
+        background-color:darkkhaki;
+      }
