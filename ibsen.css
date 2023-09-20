@@ -78,6 +78,7 @@
         color: darkred;
         text-shadow:3px 2px 3px blue;
         background-color:darkkhaki;
+        filter: blur(1px);
         
        
       }
@@ -86,6 +87,7 @@
         color: darkred;
         text-shadow:3px 2px 3px blue;
         background-color:darkkhaki;
+        filter: blur(1px);
       }
       .navbar-horizontal{
         padding: 15px;
